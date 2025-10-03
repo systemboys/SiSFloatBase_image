@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="512px" height="362px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 512 362.02"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#373435;stroke-width:0.34;stroke-miterlimit:22.9256}
+    .fil5 {fill:#FEFEFE}
+    .fil2 {fill:#373435}
+    .fil1 {fill:url(#id0)}
+    .fil4 {fill:url(#id1)}
+    .fil3 {fill:url(#id2)}
+    .fil0 {fill:url(#id3)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="objectBoundingBox" x1="100%" y1="100%" x2="0%" y2="0%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#F58634"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FFF212"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="283.9" y1="321.37" x2="188.44" y2="207.13">
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="292.13" y1="197.72" x2="184.85" y2="72.27">
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="447.5" y1="258.38" x2="56.52" y2="78.3">
+   <stop offset="0" style="stop-opacity:1; stop-color:#96989A"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#D2D3D5"/>
+  </linearGradient>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" x="107.6" y="35.65" width="301.37" height="271.84" rx="22.86" ry="16.47"/>
+  <rect class="fil1 str0" x="317.65" y="65.45" width="31.17" height="31.17"/>
+  <path class="fil2" d="M320.74 58.65l24.99 0c5.38,0 9.77,4.4 9.77,9.77l0 25.24c0,5.37 -4.39,9.77 -9.77,9.77l-24.99 0c-5.38,0 -9.77,-4.4 -9.77,-9.77l0 -25.24c0,-5.37 4.39,-9.77 9.77,-9.77zm2.35 9.01l20.28 0c1.75,0 3.18,1.42 3.18,3.17l0 20.42c0,1.75 -1.43,3.17 -3.18,3.17l-20.28 0c-1.74,0 -3.17,-1.42 -3.17,-3.17l0 -20.42c0,-1.75 1.43,-3.17 3.17,-3.17z"/>
+  <rect class="fil1 str0" x="351.4" y="120.87" width="23.73" height="23.73"/>
+  <path class="fil2" d="M373.44 115.23l-20.35 0c-4.03,0 -7.33,3.3 -7.33,7.33l0 20.35c0,4.04 3.3,7.33 7.33,7.33l20.35 0c4.03,0 7.33,-3.29 7.33,-7.33l0 -20.35c0,-4.03 -3.3,-7.33 -7.33,-7.33zm-3.7 9.6l-12.94 0c-0.79,0 -1.44,0.65 -1.44,1.44l0 12.94c0,0.79 0.65,1.43 1.44,1.43l12.94 0c0.79,0 1.43,-0.64 1.43,-1.43l0 -12.94c0,-0.79 -0.64,-1.44 -1.43,-1.44z"/>
+  <path class="fil3" d="M184.85 72.27l72.85 0c35.53,0 64.6,29.07 64.6,64.59l0 0c0,35.53 -29.07,64.59 -64.6,64.59l-72.85 0 0 -129.18z"/>
+  <path class="fil4" d="M184.85 201.45l72.85 0c35.53,0 64.6,29.07 64.6,64.59l0 0c0,35.53 -29.07,64.6 -64.6,64.6l-72.85 0 0 -129.19z"/>
+  <path class="fil2" d="M188.44 68.59l2.82 0 56.61 0 10.62 0c37.94,0 68.98,31.04 68.98,68.98l0 0c0,25.74 -14.3,48.3 -35.34,60.15l-0.04 -0.08c-0.66,0.38 -1.43,0.6 -2.24,0.6 -2.49,0 -4.51,-2.02 -4.51,-4.51 0,-1.67 0.91,-3.13 2.27,-3.91l-0.04 -0.07c18.09,-10.4 30.35,-29.93 30.35,-52.18l0 0c0,-33.07 -27.05,-60.12 -60.12,-60.12l-9.24 0 -57.38 0c-1.51,0 -2.74,1.23 -2.74,2.74l0 57.38 0 0 0 60.11 60.12 0 1.92 0c2.71,0.05 5.4,0.13 8.06,0.28l0.19 0.07c0.11,0 0.21,0 0.32,0 0.21,0 0.43,0 0.64,0 7.57,0.51 14.96,1.67 22.32,4.36l-0.06 0.02c26.48,9.65 45.52,35.13 45.52,64.84l0 0c0,37.94 -31.04,68.98 -68.98,68.98l-10.62 0 -53.17 0 -6.26 0 -0.59 0 0 0c-4.79,-0.13 -8.67,-3.92 -8.94,-8.67l-0.02 0 0 -3.69 0 -117.32 0 -8.28 0 -60.7 0 0 0 -53.18 0 -6.85 0.01 0c0.12,-4.79 3.91,-8.67 8.67,-8.94l0 -0.01 0.53 0 0.34 0zm2.58 258.77l0 0.01 0.16 0 57.38 0 9.24 0c33.07,0 60.12,-27.05 60.12,-60.12l0 0c0,-33.07 -27.05,-60.12 -60.12,-60.12l-9.24 0 -60.12 0 0 117.49c0,1.46 1.14,2.66 2.58,2.74z"/>
+  <rect class="fil5" x="195.51" y="83.58" width="15.74" height="8.86" rx="4.43" ry="4.43"/>
+  <rect class="fil5" x="128.1" y="49.17" width="36.87" height="8.86" rx="10.37" ry="4.43"/>
+  <rect class="fil5" x="195.51" y="212.94" width="15.74" height="8.86" rx="4.43" ry="4.43"/>
+  <rect class="fil5" x="216.72" y="83.58" width="44.46" height="8.86" rx="5.85" ry="4.43"/>
+  <rect class="fil5" x="177.77" y="49.17" width="104.1" height="8.86" rx="13.71" ry="4.43"/>
+  <rect class="fil5" x="216.72" y="212.94" width="44.46" height="8.86" rx="5.85" ry="4.43"/>
+  <path class="fil2" d="M126.83 31.93l263.05 0c13.12,0 23.86,10.74 23.86,23.86l0 231.81c0,13.12 -10.74,23.86 -23.86,23.86l-63.77 0 0 -0.01c-2.12,0 -3.84,-1.71 -3.84,-3.84 0,-2.12 1.72,-3.84 3.84,-3.84l62.91 0c8.9,0 16.18,-7.28 16.18,-16.17l0 -231.81c0,-8.9 -7.28,-16.18 -16.18,-16.18l-261.33 0c-8.9,0 -16.18,7.28 -16.18,16.18l0 231.81c0,8.89 7.28,16.17 16.18,16.17l38.7 0 0.01 0c2.12,0 3.84,1.72 3.84,3.84 0,2.13 -1.72,3.85 -3.84,3.85l-39.57 0c-13.12,0 -23.86,-10.74 -23.86,-23.86l0 -231.81c0,-13.12 10.74,-23.86 23.86,-23.86z"/>
+ </g>
+</svg>
